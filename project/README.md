@@ -6,24 +6,6 @@ In the dynamic realm of music, knowing what resonates with audiences is crucial.
 
 ![t0](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/fc05fb63-82a4-46a1-a53d-455d38d7db45)
 
-## Contributors
-
-1. **Akash Shivaji Varude**<br>
-   Album Analysis
-1. **Darshan Jain**<br>
-   Region-based Insights
-1. **Deepen Shrestha**<br>
-   KNN Music Recommendation
-1. **Indraneel Rajeevan**<br>
-   Music Scale Analysis
-1. **Nitish Kumar**<br>
-   Top-k Songs
-1. **Pankaj Siddharth Nandeshwar**<br>
-   International Popularity
-1. **Pranjal Maroti Nandeshwar**<br>
-   Genre Fusion
-1. **Shaurya Agarwal**<br>
-   Songs' Properties Inter-relation
 
 <br>
 
